@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Medical Billing Management |** **Laptop E-Commerce**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **Java**
 
